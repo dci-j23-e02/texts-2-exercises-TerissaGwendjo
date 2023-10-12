@@ -4,7 +4,8 @@ public class Inator{
     public static void main(String[] args) {
         System.out.println(inator("Shrink")); // Output: "Shrinkinator 6000"
         System.out.println(inator("Doom"));   // Output: "Doominator 4000"
-        System.out.println(inator("EvilClone")); // Output: "EvilClone-inator 9000"
+        System.out.println(inator("EvilClone"));// Output: "EvilClone-inator 9000"
+        System.out.println(inator(""));
     }
 
     public static String inator(String word) {
