@@ -1,3 +1,5 @@
+// EXERCISE 1
+
 public class EX1 {
     public static void main(String[]args) {
         String input = "One morning, when Gregor Samsa woke from troubled dreams, "
